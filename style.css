@@ -2,16 +2,16 @@
   margin: auto;
   width: 100%;
   max-width: 1024px;
-  padding: 0 0 40px 20px;
+  padding: 0 40px 20px;
 }
 
 .container1 {
-  padding: 0 0 25px;
+  padding: 50px 0 50px 70px;
 }
 
 main {
  border: 2px solid lightgray;
- padding: 10px 10px 20px 35px;
+ padding: 40px 70px 60px 85px;
  border-radius: 25px;
 }
 
@@ -46,5 +46,5 @@ li {
 }
 
 footer {
-  padding: 20px 20px 10px;
+  padding: 50px 20px 10px;
  }
