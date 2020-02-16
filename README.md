@@ -5,7 +5,7 @@
     <meta name="keywords" content="резюме, файл, верстка">
     <meta name="Создание и размещение страницы index.html и стилей для нее на github.com.">
     <title>Резюме Andrey Sidorenko - Верстка и размещение html файла</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
   </head>
   <body>
     <div class="container">
